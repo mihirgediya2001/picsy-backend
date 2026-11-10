@@ -1,0 +1,6 @@
+apps:
+    -
+        name: picsy-bakcend
+        restart_delay: 100
+        script: python3 main.py
+        autorestart: true

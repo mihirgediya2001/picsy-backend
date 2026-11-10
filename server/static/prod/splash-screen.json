@@ -1,0 +1,132 @@
+{
+  "privacy_policy": "https://picsy.art/privacy-policy",
+  "terms_and_conditions": "https://picsy.art/terms-of-use",
+  "about_us": "https://picsy.art/about-us",
+  "contact_us": "https://picsy.art/contact-us",
+  "pagination_count": 100,
+  "native-ad-frequency": 10,
+  "grid-view-image-resolution-divide-by": 4,
+  "image-slider-resolution-divide-by": 2,
+  "app_update": {
+    "android": {
+      "version": "1.2.8",
+      "is-force-update": true,
+      "store-link": "https://play.google.com/store/apps/details?id=art.picsy.deltabits"
+    },
+    "iOS": {
+      "version": "1.0.0",
+      "is-force-update": false,
+      "store-link": "https:///"
+    }
+  },
+  "admob-app-ids": {
+    "android": "xxxxx",
+    "iOS": "xxxxx"
+  },
+  "admob-ad-units": {
+    "app-opener-ad": {
+      "test-ids": {
+        "android": "xxx",
+        "iOS": "ca-app-pub-3940256099942544/5575463023"
+      },
+      "production-ids": {
+        "android": "xxx",
+        "iOS": "xxxxxxx"
+      }
+    },
+    "native-ad": {
+      "test-ids": {
+        "android": "xxx",
+        "iOS": "ca-app-pub-3940256099942544/3986624511"
+      },
+      "production-ids": {
+        "android": "xxx",
+        "iOS": "xxxxxxx"
+      }
+    },
+    "interstitial-ad": {
+      "test-ids": {
+        "android": "",
+        "iOS": "ca-app-pub-3940256099942544/4411468910"
+      },
+      "production-ids": {
+        "android": "",
+        "iOS": "xxxxxxx"
+      }
+    },
+    "rewarded-ad": {
+      "test-ids": {
+        "android": "",
+        "iOS": "ca-app-pub-3940256099942544/1712485313"
+      },
+      "production-ids": {
+        "android": "",
+        "iOS": "2"
+      }
+    }
+  },
+  "ad_units_visibility": {
+    "android": {
+      "show-app-opener-ad": true,
+      "show-native-ad": true,
+      "show-interstitial-ad-onTapOfImage": true,
+      "show-interstitial-ad-whenGetBackFromImages": true,
+      "show-rewarded-ad-on-download-image": true,
+      "show-rewarded-ad-on-set-image": true
+    },
+    "iOS": {
+      "show-app-opener-ad": true,
+      "show-native-ad": true,
+      "show-interstitial-ad-onTapOfImage": true,
+      "show-interstitial-ad-whenGetBackFromImages": true,
+      "show-rewarded-ad-on-download-image": true,
+      "show-rewarded-ad-on-set-image": true
+    }
+  },
+  "search-categories": [
+    {
+      "title": "Nature",
+      "bg-image": "https://images.unsplash.com/photo-1501854140801-50d01698950b?q=80&w=1950&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "title": "Abstract",
+      "bg-image": "https://images.unsplash.com/photo-1574169208507-84376144848b?q=80&w=1779&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "title": "Cosmos",
+      "bg-image": "https://images.unsplash.com/photo-1592035659284-3b39971c1107?q=80&w=2063&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "title": "Animals",
+      "bg-image": "https://images.unsplash.com/photo-1456926631375-92c8ce872def?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "title": "City",
+      "bg-image": "https://images.unsplash.com/photo-1514565131-fce0801e5785?q=80&w=1912&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "title": "Art",
+      "bg-image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "title": "Quotes",
+      "bg-image": "https://images.unsplash.com/photo-1589561253898-768105ca91a8?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "title": "Technology",
+      "bg-image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "title": "Season",
+      "bg-image": "https://images.unsplash.com/photo-1477414348463-c0eb7f1359b6?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "title": "Anime",
+      "bg-image": "https://images.unsplash.com/photo-1578632749014-ca77efd052eb?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "title": "Trending",
+      "bg-image": "https://wallpapers.com/images/hd/trending-blue-gigabyte-bionic-eyes-73ax0gjalwgnnd1a.jpg"
+    }
+  ]
+}

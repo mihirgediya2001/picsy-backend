@@ -1,0 +1,16 @@
+boto3
+opensearch-py
+requests-aws4auth
+requests
+python-dotenv
+uvicorn
+fastapi
+SQLAlchemy
+pydantic
+pydantic[email]
+psycopg2-binary
+fastapi-jwt-auth
+passlib
+pre-commit
+gunicorn
+sdxl
